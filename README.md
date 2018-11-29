@@ -1,2 +1,2 @@
 # LSTM_Regression_Network
-class for creating LSTM Regression Networks
+Class for creating LSTM Regression Networks with simple interface for hyper parameter setting
